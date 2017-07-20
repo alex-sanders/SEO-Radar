@@ -1,0 +1,20 @@
+{
+  "name": "radar-package",
+  "version": "1.0.0",
+  "description": "seo radar competency matrix",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": {
+    "name":  "alexis sanders",
+    "email": "asanders@merkleinc.com"
+  },
+
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mssql":"^ 3.3.0"
+  }
+}
